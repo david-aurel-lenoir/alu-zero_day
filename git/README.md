@@ -1,3 +1,4 @@
 # Git Directory
-update from github fast
+update from github 
 This directory contains exercises for the Git module
+yess
